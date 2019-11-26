@@ -213,4 +213,8 @@ If you find this work or code is helpful in your research, please cite:
   year={2019}
 }
 ````
-
+用于多人姿态估计的自下而上的高分辨率网络
+《Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation》
+注：论文已上传至星球！HigherHRNet是Bottom-up方法中性能最强的网络，于2019.11.23 正式开源！
+Author：伊利诺伊大学厄巴纳-香槟分校&字节跳动&微软
+Abstract：In this paper, we are interested in bottom-up multi-person hu
